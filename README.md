@@ -1,6 +1,9 @@
 Ever wanted to generate a large market of shopkeepers with a single button press? Try visiting The Night Market (TNM)
+
 Simply clone the repo, and open index.html in any web browser. (Hopefully. I've never actually tested it outside Firefox)
+
 Press the Generate Shops button to roll a bunch of shops. If you want to pass this smorgasburg of items to your players to peruse, press the Export Player HTML button
+
 Then send your players the HTML and they should have access to the shops you just generated
 
 If you'd like to modify the shops for your own purposes, every shop is an extension of a Merchant parent class. Feel free to modify the merchants available or add your own.
