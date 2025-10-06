@@ -1,0 +1,11 @@
+{
+  "name": "john-itemseller",
+  "version": "1.0.0",
+  "description": "John sells you dnd items",
+  "main": "john.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minaro",
+  "license": "ISC"
+}
