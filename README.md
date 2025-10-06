@@ -1,4 +1,4 @@
-Ever wanted to generate a large market of shopkeepers with a single button press? Try visiting The Night Market (TNM)
+Ever wanted to generate a large market of merchants with a single button press? Try visiting The Night Market (TNM)
 
 Simply clone the repo, and open index.html in any web browser. (Hopefully. I've never actually tested it outside Firefox)
 

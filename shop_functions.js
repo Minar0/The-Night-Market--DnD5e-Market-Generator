@@ -33,7 +33,7 @@ async function generateShops() {
   await last_promise;
 
   renderShopList();
-  document.getElementById("shopName").innerText  = "Select a Shopkeeper";
+  document.getElementById("shopName").innerText  = "Select a Merchant";
   document.getElementById("shopLore").innerText  = "";
   document.getElementById("shopItems").innerHTML = "";
   
@@ -347,12 +347,12 @@ async function exportPlayerHTML() {
     <body>
       <div id="container">
         <aside id="sidebar">
-          <h3>Shopkeepers</h3>
+          <h3>Merchants</h3>
           <ul id="shopList"></ul>
         </aside>
         
         <main id="mainContent">
-          <h2 id="shopName">Select a Shopkeeper</h2>
+          <h2 id="shopName">Select a Merchant</h2>
           <h3 id="shopLore"></h3>
           <div id="shopItems"></div>
         </main>
