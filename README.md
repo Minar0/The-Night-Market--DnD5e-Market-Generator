@@ -12,5 +12,5 @@ If you add any merchants, open a pull request and I'll probably add them to this
 I'm hoping the code is relatively self-explanetory, but if not, let me know and I'll put together some actual documentation when I'm not dead tired/
 
 
-TNM is a weekend creation that I build in an obsession fueled blur and I've already forgotten how half this stuff works. 
+TNM is a weekend creation that I built in an obsession fueled blur and I've already forgotten how half this stuff works. 
 Apologies if you try to modify it and it breaks immediatly
