@@ -225,7 +225,7 @@
 /* ==================== TOOLTIPS ==================== */
 .shopItem .tooltiptext {
   visibility: hidden;
-  max-width: 300px;
+  max-width: 500px;
   background-color: #8b5e3c;
   color: #fdf5e6;
   font-size: 0.9rem;

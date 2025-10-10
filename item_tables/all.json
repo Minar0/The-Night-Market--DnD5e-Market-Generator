@@ -3636,7 +3636,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Ammunition made of or coated with adamantine is unusually effective when used to break objects. Whenever a piece of adamantine ammunition hits an object, the hit is a critical hit.The adamantine version of ten pieces of ammunition costs 500 gp more than the normal version, whether the ammunition is made of the metal or coated with it. Base items. This item variant can be applied to the following base items:Arrow (Adamantine Arrow)Bolt (Adamantine Bolt)Firearm Bullet (Adamantine Firearm Bullet)Needle (Adamantine Needle)Sling Bullet (Adamantine Sling Bullet)"
     },
     {
@@ -3650,7 +3650,7 @@
         "Properties": "ammunition (120/360\u00a0ft.), reload (2 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "10 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -3678,7 +3678,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "0.8 oz.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object using this ammunition, the hit is a critical hit.Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Arrows are typically stored in a Quiver (bought separately)."
     },
     {
@@ -3692,7 +3692,7 @@
         "Properties": "ammunition (50/150\u00a0ft.), reload (15 shots)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
     },
     {
@@ -3706,7 +3706,7 @@
         "Properties": "ammunition (80/240\u00a0ft.), burst fire, reload (30 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "8 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Burst Fire. A weapon that has the burst fire property can make a single-target attack, or it can spray a 10-foot-cube area within normal range with shots. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the weapon's normal damage. This action uses ten pieces of ammunition. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -3720,7 +3720,7 @@
         "Properties": "versatile (1d10)",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "510 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -3734,7 +3734,7 @@
         "Properties": "ammunition (25/100\u00a0ft.), loading",
         "Mastery": "",
         "Weight": "1 lb.",
-        "Value": "510 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make."
     },
     {
@@ -3748,7 +3748,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "1.2 oz.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object using this ammunition, the hit is a critical hit.Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Bolts are typically stored in a Crossbow Bolt Case (bought separately)."
     },
     {
@@ -3804,7 +3804,7 @@
         "Properties": "light",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "500 gp, 1 sp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -3818,7 +3818,7 @@
         "Properties": "finesse, light, thrown (20/60\u00a0ft.)",
         "Mastery": "",
         "Weight": "1 lb.",
-        "Value": "502 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -3832,7 +3832,7 @@
         "Properties": "finesse, thrown (20/60\u00a0ft.)",
         "Mastery": "",
         "Weight": "\u00bc lb.",
-        "Value": "500 gp, 5 cp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -3846,7 +3846,7 @@
         "Properties": "two\u2011handed, special",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "600 gp",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Eberron: Rising from the Last War, page 21.Whenever you hit an object with this weapon, the hit is a critical hit. Special. If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -3860,7 +3860,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "\u2155 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object using this ammunition, the hit is a critical hit.The ammunition of a firearm is destroyed upon use.Firearm Bullets are typically stored in a Pouch (bought separately)."
     },
     {
@@ -3874,7 +3874,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "510 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit."
     },
     {
@@ -3888,7 +3888,7 @@
         "Properties": "heavy, reach, two\u2011handed",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "520 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -3902,7 +3902,7 @@
         "Properties": "heavy, two\u2011handed",
         "Mastery": "",
         "Weight": "7 lb.",
-        "Value": "530 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -3916,7 +3916,7 @@
         "Properties": "two\u2011handed",
         "Mastery": "",
         "Weight": "10 lb.",
-        "Value": "500 gp, 2 sp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -3930,7 +3930,7 @@
         "Properties": "heavy, two\u2011handed",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "550 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -3944,7 +3944,7 @@
         "Properties": "heavy, reach, two\u2011handed",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "520 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -3972,7 +3972,7 @@
         "Properties": "ammunition (30/120\u00a0ft.), light, loading",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "575 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make."
     },
     {
@@ -3986,7 +3986,7 @@
         "Properties": "light, thrown (20/60\u00a0ft.)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "505 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -4000,7 +4000,7 @@
         "Properties": "ammunition (100/400\u00a0ft.), heavy, loading, two\u2011handed",
         "Mastery": "",
         "Weight": "18 lb.",
-        "Value": "550 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4014,7 +4014,7 @@
         "Properties": "light",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Out of the Abyss, page 224.Whenever you hit an object with this weapon, the hit is a critical hit.On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -4028,7 +4028,7 @@
         "Properties": "ammunition (40/160\u00a0ft.), finesse, two\u2011handed, special",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "500 gp, 1 sp",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Dragonlance: Shadow of the Dragon Queen, page 188.Whenever you hit an object with this weapon, the hit is a critical hit.A hoopak is a sturdy stick with a sling at one end and a pointed tip at the other. Special. When you make a melee attack with this weapon, you ignore its ammunition property. You can use the hoopak as a martial ranged weapon. If you do, it uses the ammunition property, uses sling bullets, and deals 1d4 bludgeoning damage on a hit. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4042,7 +4042,7 @@
         "Properties": "ammunition (80/240\u00a0ft.), reload (5 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "8 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4056,7 +4056,7 @@
         "Properties": "thrown (30/120\u00a0ft.)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "500 gp, 5 sp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -4070,7 +4070,7 @@
         "Properties": "reach, special",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "510 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Special. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon."
     },
     {
@@ -4084,7 +4084,7 @@
         "Properties": "ammunition (40/120\u00a0ft.), reload (50 shots)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
     },
     {
@@ -4098,7 +4098,7 @@
         "Properties": "ammunition (100/300\u00a0ft.), reload (30 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "7 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4112,7 +4112,7 @@
         "Properties": "ammunition (80/320\u00a0ft.), loading, two\u2011handed",
         "Mastery": "",
         "Weight": "5 lb.",
-        "Value": "525 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4126,7 +4126,7 @@
         "Properties": "light, thrown (20/60\u00a0ft.)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "502 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -4140,7 +4140,7 @@
         "Properties": "ammunition (40/160\u00a0ft.), two\u2011handed",
         "Mastery": "",
         "Weight": "5 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Out of the Abyss, page 224.Whenever you hit an object with this weapon, the hit is a critical hit.This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4154,7 +4154,7 @@
         "Properties": "ammunition (150/600\u00a0ft.), heavy, two\u2011handed",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "550 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4168,7 +4168,7 @@
         "Properties": "versatile (1d10)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "515 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -4182,7 +4182,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "505 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit."
     },
     {
@@ -4196,7 +4196,7 @@
         "Properties": "heavy, two\u2011handed",
         "Mastery": "",
         "Weight": "10 lb.",
-        "Value": "510 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4210,7 +4210,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "515 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit."
     },
     {
@@ -4224,7 +4224,7 @@
         "Properties": "ammunition (40/120\u00a0ft.), loading, two\u2011handed",
         "Mastery": "",
         "Weight": "10 lb.",
-        "Value": "1,000 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4238,7 +4238,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "0.32 oz.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object using this ammunition, the hit is a critical hit.Blowgun needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Needles are typically stored in a Pouch (bought separately)."
     },
     {
@@ -4252,7 +4252,7 @@
         "Properties": "heavy, reach, two\u2011handed",
         "Mastery": "",
         "Weight": "18 lb.",
-        "Value": "505 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4266,7 +4266,7 @@
         "Properties": "ammunition (30/90\u00a0ft.), loading",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "750 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make."
     },
     {
@@ -4294,7 +4294,7 @@
         "Properties": "versatile (1d8)",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "500 gp, 2 sp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -4308,7 +4308,7 @@
         "Properties": "finesse",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "525 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
     },
     {
@@ -4322,7 +4322,7 @@
         "Properties": "ammunition (40/120\u00a0ft.), reload (6 shots)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
     },
     {
@@ -4364,7 +4364,7 @@
         "Properties": "finesse, light",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "525 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -4378,7 +4378,7 @@
         "Properties": "ammunition (80/320\u00a0ft.), two\u2011handed",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "525 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4392,7 +4392,7 @@
         "Properties": "finesse, light",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "510 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -4406,7 +4406,7 @@
         "Properties": "ammunition (30/90\u00a0ft.), reload (2 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "7 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -4420,7 +4420,7 @@
         "Properties": "light",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "501 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -4434,7 +4434,7 @@
         "Properties": "ammunition (30/120\u00a0ft.)",
         "Mastery": "",
         "Weight": "",
-        "Value": "500 gp, 1 sp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way."
     },
     {
@@ -4448,7 +4448,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "1.2 oz.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object using this ammunition, the hit is a critical hit.Sling bullets are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Sling Bullets are typically stored in a Pouch (bought separately)."
     },
     {
@@ -4462,7 +4462,7 @@
         "Properties": "thrown (20/60\u00a0ft.), versatile (1d8)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "501 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -4504,7 +4504,7 @@
         "Properties": "thrown (20/60\u00a0ft.), versatile (1d8)",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "505 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -4518,7 +4518,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "505 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit."
     },
     {
@@ -4532,7 +4532,7 @@
         "Properties": "versatile (1d10)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "515 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -4546,7 +4546,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Melee weapons made of or coated with adamantine are unusually effective when used to break objects. Whenever an adamantine weapon hits an object, the hit is a critical hit.The adamantine version of a melee weapon costs 500 gp more than the normal version, whether the weapon is made of the metal or coated with it. Base items. This item variant can be applied to the following base items:Antimatter Rifle (Adamantine Antimatter Rifle)Automatic Pistol (Adamantine Automatic Pistol)Automatic Rifle (Adamantine Automatic Rifle)Battleaxe (Adamantine Battleaxe)Blowgun (Adamantine Blowgun)Club (Adamantine Club)Dagger (Adamantine Dagger)Dart (Adamantine Dart)Double-Bladed Scimitar (Adamantine Double-Bladed Scimitar)Flail (Adamantine Flail)Glaive (Adamantine Glaive)Greataxe (Adamantine Greataxe)Greatclub (Adamantine Greatclub)Greatsword (Adamantine Greatsword)Halberd (Adamantine Halberd)Hand Crossbow (Adamantine Hand Crossbow)Handaxe (Adamantine Handaxe)Heavy Crossbow (Adamantine Heavy Crossbow)Hooked Shortspear (Adamantine Hooked Shortspear)Hoopak (Adamantine Hoopak)Hunting Rifle (Adamantine Hunting Rifle)Javelin (Adamantine Javelin)Lance (Adamantine Lance)Laser Pistol (Adamantine Laser Pistol)Laser Rifle (Adamantine Laser Rifle)Light Crossbow (Adamantine Light Crossbow)Light Hammer (Adamantine Light Hammer)Light Repeating Crossbow (Adamantine Light Repeating Crossbow)Longbow (Adamantine Longbow)Longsword (Adamantine Longsword)Mace (Adamantine Mace)Maul (Adamantine Maul)Morningstar (Adamantine Morningstar)Musket (Adamantine Musket)Pike (Adamantine Pike)Pistol (Adamantine Pistol)Quarterstaff (Adamantine Quarterstaff)Rapier (Adamantine Rapier)Revolver (Adamantine Revolver)Scimitar (Adamantine Scimitar)Shortbow (Adamantine Shortbow)Shortsword (Adamantine Shortsword)Shotgun (Adamantine Shotgun)Sickle (Adamantine Sickle)Sling (Adamantine Sling)Spear (Adamantine Spear)Trident (Adamantine Trident)War Pick (Adamantine War Pick)Warhammer (Adamantine Warhammer)Whip (Adamantine Whip)Yklwa (Adamantine Yklwa)"
     },
     {
@@ -4560,7 +4560,7 @@
         "Properties": "finesse, reach",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "502 gp",
+        "Value": "500000 gp",
         "Text": "Whenever you hit an object with this weapon, the hit is a critical hit. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon."
     },
     {
@@ -4574,7 +4574,7 @@
         "Properties": "thrown (10/30\u00a0ft.)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "501 gp",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Tomb of Annihilation, page 32.Whenever you hit an object with this weapon, the hit is a critical hit.A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. Although it has the thrown weapon property, the yklwa is not well balanced for throwing. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -13114,7 +13114,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Illithids don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.Multiple variations of this item exist, as listed below:Flensing Claws (Small)Flensing Claws (Medium)Flensing Claws (Large)Flensing Claws (Huge)"
     },
     {
@@ -13128,7 +13128,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws."
     },
     {
@@ -13142,7 +13142,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws."
     },
     {
@@ -13156,7 +13156,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws."
     },
     {
@@ -13170,7 +13170,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws."
     },
     {
@@ -22620,7 +22620,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver ammunition, so cautious adventurers invest extra coin to plate their ammunition in silver. You can silver ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the ammunition without making it less effective. Base items. This item variant can be applied to the following base items:Arrow (Silvered Arrow)Bolt (Silvered Bolt)Firearm Bullet (Silvered Firearm Bullet)Needle (Silvered Needle)Sling Bullet (Silvered Sling Bullet)"
     },
     {
@@ -22634,7 +22634,7 @@
         "Properties": "ammunition (120/360\u00a0ft.), reload (2 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "10 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22648,7 +22648,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "0.8 oz.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Arrows are typically stored in a Quiver (bought separately)."
     },
     {
@@ -22662,7 +22662,7 @@
         "Properties": "ammunition (50/150\u00a0ft.), reload (15 shots)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
     },
     {
@@ -22676,7 +22676,7 @@
         "Properties": "ammunition (80/240\u00a0ft.), burst fire, reload (30 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "8 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Burst Fire. A weapon that has the burst fire property can make a single-target attack, or it can spray a 10-foot-cube area within normal range with shots. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the weapon's normal damage. This action uses ten pieces of ammunition. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22690,7 +22690,7 @@
         "Properties": "versatile (1d10)",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "110 gp",
+        "Value": "500000 gp",
         "Text": "Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -22704,7 +22704,7 @@
         "Properties": "ammunition (25/100\u00a0ft.), loading",
         "Mastery": "",
         "Weight": "1 lb.",
-        "Value": "110 gp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make."
     },
     {
@@ -22718,7 +22718,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "1.2 oz.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Bolts are typically stored in a Crossbow Bolt Case (bought separately)."
     },
     {
@@ -22732,7 +22732,7 @@
         "Properties": "light",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "100 gp, 1 sp",
+        "Value": "500000 gp",
         "Text": "Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -22746,7 +22746,7 @@
         "Properties": "finesse, light, thrown (20/60\u00a0ft.)",
         "Mastery": "",
         "Weight": "1 lb.",
-        "Value": "102 gp",
+        "Value": "500000 gp",
         "Text": "Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -22760,7 +22760,7 @@
         "Properties": "finesse, thrown (20/60\u00a0ft.)",
         "Mastery": "",
         "Weight": "\u00bc lb.",
-        "Value": "100 gp, 5 cp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -22774,7 +22774,7 @@
         "Properties": "two\u2011handed, special",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "200 gp",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Eberron: Rising from the Last War, page 21. Special. If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22788,7 +22788,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "\u2155 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "The ammunition of a firearm is destroyed upon use.Firearm Bullets are typically stored in a Pouch (bought separately)."
     },
     {
@@ -22802,7 +22802,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "110 gp",
+        "Value": "500000 gp",
         "Text": ""
     },
     {
@@ -22816,7 +22816,7 @@
         "Properties": "heavy, reach, two\u2011handed",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "120 gp",
+        "Value": "500000 gp",
         "Text": "Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22830,7 +22830,7 @@
         "Properties": "heavy, two\u2011handed",
         "Mastery": "",
         "Weight": "7 lb.",
-        "Value": "130 gp",
+        "Value": "500000 gp",
         "Text": "Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22844,7 +22844,7 @@
         "Properties": "two\u2011handed",
         "Mastery": "",
         "Weight": "10 lb.",
-        "Value": "100 gp, 2 sp",
+        "Value": "500000 gp",
         "Text": "Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22858,7 +22858,7 @@
         "Properties": "heavy, two\u2011handed",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "150 gp",
+        "Value": "500000 gp",
         "Text": "Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22872,7 +22872,7 @@
         "Properties": "heavy, reach, two\u2011handed",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "120 gp",
+        "Value": "500000 gp",
         "Text": "Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22886,7 +22886,7 @@
         "Properties": "ammunition (30/120\u00a0ft.), light, loading",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "175 gp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make."
     },
     {
@@ -22900,7 +22900,7 @@
         "Properties": "light, thrown (20/60\u00a0ft.)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "105 gp",
+        "Value": "500000 gp",
         "Text": "Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -22914,7 +22914,7 @@
         "Properties": "ammunition (100/400\u00a0ft.), heavy, loading, two\u2011handed",
         "Mastery": "",
         "Weight": "18 lb.",
-        "Value": "150 gp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22928,7 +22928,7 @@
         "Properties": "light",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Out of the Abyss, page 224.On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -22942,7 +22942,7 @@
         "Properties": "ammunition (40/160\u00a0ft.), finesse, two\u2011handed, special",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "100 gp, 1 sp",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Dragonlance: Shadow of the Dragon Queen, page 188.A hoopak is a sturdy stick with a sling at one end and a pointed tip at the other. Special. When you make a melee attack with this weapon, you ignore its ammunition property. You can use the hoopak as a martial ranged weapon. If you do, it uses the ammunition property, uses sling bullets, and deals 1d4 bludgeoning damage on a hit. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22956,7 +22956,7 @@
         "Properties": "ammunition (80/240\u00a0ft.), reload (5 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "8 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -22970,7 +22970,7 @@
         "Properties": "thrown (30/120\u00a0ft.)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "100 gp, 5 sp",
+        "Value": "500000 gp",
         "Text": "Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -22984,7 +22984,7 @@
         "Properties": "reach, special",
         "Mastery": "",
         "Weight": "6 lb.",
-        "Value": "110 gp",
+        "Value": "500000 gp",
         "Text": "Special. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon."
     },
     {
@@ -22998,7 +22998,7 @@
         "Properties": "ammunition (40/120\u00a0ft.), reload (50 shots)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
     },
     {
@@ -23012,7 +23012,7 @@
         "Properties": "ammunition (100/300\u00a0ft.), reload (30 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "7 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23026,7 +23026,7 @@
         "Properties": "ammunition (80/320\u00a0ft.), loading, two\u2011handed",
         "Mastery": "",
         "Weight": "5 lb.",
-        "Value": "125 gp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23040,7 +23040,7 @@
         "Properties": "light, thrown (20/60\u00a0ft.)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "102 gp",
+        "Value": "500000 gp",
         "Text": "Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -23054,7 +23054,7 @@
         "Properties": "ammunition (40/160\u00a0ft.), two\u2011handed",
         "Mastery": "",
         "Weight": "5 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Out of the Abyss, page 224.This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action. Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23068,7 +23068,7 @@
         "Properties": "ammunition (150/600\u00a0ft.), heavy, two\u2011handed",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "150 gp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23082,7 +23082,7 @@
         "Properties": "versatile (1d10)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "115 gp",
+        "Value": "500000 gp",
         "Text": "Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -23096,7 +23096,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "105 gp",
+        "Value": "500000 gp",
         "Text": ""
     },
     {
@@ -23110,7 +23110,7 @@
         "Properties": "heavy, two\u2011handed",
         "Mastery": "",
         "Weight": "10 lb.",
-        "Value": "110 gp",
+        "Value": "500000 gp",
         "Text": "Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23124,7 +23124,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "115 gp",
+        "Value": "500000 gp",
         "Text": ""
     },
     {
@@ -23138,7 +23138,7 @@
         "Properties": "ammunition (40/120\u00a0ft.), loading, two\u2011handed",
         "Mastery": "",
         "Weight": "10 lb.",
-        "Value": "600 gp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23152,7 +23152,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "0.32 oz.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Blowgun needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Needles are typically stored in a Pouch (bought separately)."
     },
     {
@@ -23166,7 +23166,7 @@
         "Properties": "heavy, reach, two\u2011handed",
         "Mastery": "",
         "Weight": "18 lb.",
-        "Value": "105 gp",
+        "Value": "500000 gp",
         "Text": "Heavy. Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23180,7 +23180,7 @@
         "Properties": "ammunition (30/90\u00a0ft.), loading",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "350 gp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Loading. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make."
     },
     {
@@ -23194,7 +23194,7 @@
         "Properties": "versatile (1d8)",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "100 gp, 2 sp",
+        "Value": "500000 gp",
         "Text": "Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -23208,7 +23208,7 @@
         "Properties": "finesse",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "125 gp",
+        "Value": "500000 gp",
         "Text": "Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
     },
     {
@@ -23222,7 +23222,7 @@
         "Properties": "ammunition (40/120\u00a0ft.), reload (6 shots)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
     },
     {
@@ -23236,7 +23236,7 @@
         "Properties": "finesse, light",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "125 gp",
+        "Value": "500000 gp",
         "Text": "Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -23250,7 +23250,7 @@
         "Properties": "ammunition (80/320\u00a0ft.), two\u2011handed",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "125 gp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23264,7 +23264,7 @@
         "Properties": "finesse, light",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "110 gp",
+        "Value": "500000 gp",
         "Text": "Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -23278,7 +23278,7 @@
         "Properties": "ammunition (30/90\u00a0ft.), reload (2 shots), two\u2011handed",
         "Mastery": "",
         "Weight": "7 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Reload. A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it."
     },
     {
@@ -23292,7 +23292,7 @@
         "Properties": "light",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "101 gp",
+        "Value": "500000 gp",
         "Text": "Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
     },
     {
@@ -23306,7 +23306,7 @@
         "Properties": "ammunition (30/120\u00a0ft.)",
         "Mastery": "",
         "Weight": "",
-        "Value": "100 gp, 1 sp",
+        "Value": "500000 gp",
         "Text": "Range. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range. Ammunition. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way."
     },
     {
@@ -23320,7 +23320,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "1.2 oz.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Sling bullets are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Sling Bullets are typically stored in a Pouch (bought separately)."
     },
     {
@@ -23334,7 +23334,7 @@
         "Properties": "thrown (20/60\u00a0ft.), versatile (1d8)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "101 gp",
+        "Value": "500000 gp",
         "Text": "Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -23348,7 +23348,7 @@
         "Properties": "thrown (20/60\u00a0ft.), versatile (1d8)",
         "Mastery": "",
         "Weight": "4 lb.",
-        "Value": "105 gp",
+        "Value": "500000 gp",
         "Text": "Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -23362,7 +23362,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "105 gp",
+        "Value": "500000 gp",
         "Text": ""
     },
     {
@@ -23376,7 +23376,7 @@
         "Properties": "versatile (1d10)",
         "Mastery": "",
         "Weight": "2 lb.",
-        "Value": "115 gp",
+        "Value": "500000 gp",
         "Text": "Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property\u2014the damage when the weapon is used with two hands to make a melee attack."
     },
     {
@@ -23390,7 +23390,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective. Base items. This item variant can be applied to the following base items:Antimatter Rifle (Silvered Antimatter Rifle)Automatic Pistol (Silvered Automatic Pistol)Automatic Rifle (Silvered Automatic Rifle)Battleaxe (Silvered Battleaxe)Blowgun (Silvered Blowgun)Club (Silvered Club)Dagger (Silvered Dagger)Dart (Silvered Dart)Double-Bladed Scimitar (Silvered Double-Bladed Scimitar)Flail (Silvered Flail)Glaive (Silvered Glaive)Greataxe (Silvered Greataxe)Greatclub (Silvered Greatclub)Greatsword (Silvered Greatsword)Halberd (Silvered Halberd)Hand Crossbow (Silvered Hand Crossbow)Handaxe (Silvered Handaxe)Heavy Crossbow (Silvered Heavy Crossbow)Hooked Shortspear (Silvered Hooked Shortspear)Hoopak (Silvered Hoopak)Hunting Rifle (Silvered Hunting Rifle)Javelin (Silvered Javelin)Lance (Silvered Lance)Laser Pistol (Silvered Laser Pistol)Laser Rifle (Silvered Laser Rifle)Light Crossbow (Silvered Light Crossbow)Light Hammer (Silvered Light Hammer)Light Repeating Crossbow (Silvered Light Repeating Crossbow)Longbow (Silvered Longbow)Longsword (Silvered Longsword)Mace (Silvered Mace)Maul (Silvered Maul)Morningstar (Silvered Morningstar)Musket (Silvered Musket)Pike (Silvered Pike)Pistol (Silvered Pistol)Quarterstaff (Silvered Quarterstaff)Rapier (Silvered Rapier)Revolver (Silvered Revolver)Scimitar (Silvered Scimitar)Shortbow (Silvered Shortbow)Shortsword (Silvered Shortsword)Shotgun (Silvered Shotgun)Sickle (Silvered Sickle)Sling (Silvered Sling)Spear (Silvered Spear)Trident (Silvered Trident)War Pick (Silvered War Pick)Warhammer (Silvered Warhammer)Whip (Silvered Whip)Yklwa (Silvered Yklwa)"
     },
     {
@@ -23404,7 +23404,7 @@
         "Properties": "finesse, reach",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "102 gp",
+        "Value": "500000 gp",
         "Text": "Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. Reach. This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for opportunity attacks with a reach weapon."
     },
     {
@@ -23418,7 +23418,7 @@
         "Properties": "thrown (10/30\u00a0ft.)",
         "Mastery": "",
         "Weight": "3 lb.",
-        "Value": "101 gp",
+        "Value": "500000 gp",
         "Text": "The base item can be found in Tomb of Annihilation, page 32.A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. Although it has the thrown weapon property, the yklwa is not well balanced for throwing. Thrown. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
     },
     {
@@ -25084,7 +25084,7 @@
         "Properties": "",
         "Mastery": "",
         "Weight": "40 lb.",
-        "Value": "",
+        "Value": "500000 gp",
         "Text": "This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a cloudkill spell, a stinking cloud spell, inhaled poisons, and the breath weapons of some dragons).The wearer has Disadvantage on Dexterity (Stealth) checks."
     },
     {

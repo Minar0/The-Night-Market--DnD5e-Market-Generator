@@ -1,17 +1,4 @@
-/*Ideas:
-Standard Gear
-Armor shop
-Weapon shop
-Magic
-Tatoo parlor
-Potions
-Crazy
-
-Vehicles
-Food and drink
-Repair
-
-*/
+//Classes that represent the various merchants
 
 class Merchant {
     constructor(name = "Jimmy Jeneric", lore = "You really shouldn't use the Merchant superclass...") {
@@ -387,7 +374,7 @@ class MagicMerchant extends Merchant {
         this.sections = [{
             name: "Fichi's Find!",
             filter: (item) => this.legendaryFilter(item),
-            sort: (item0, item1) => this.typeSort(item0, item1),
+            sort: (item0, item1) => this.priceSort(item0, item1),
             volatility: 30,
             amount: 1,
             shuffle: true,
@@ -395,28 +382,28 @@ class MagicMerchant extends Merchant {
         }, {
             name: "Common Magic Items",
             filter: (item) => this.commonFilter(item),
-            sort: (item0, item1) => this.typeSort(item0, item1),
+            sort: (item0, item1) => this.priceSort(item0, item1),
             volatility: 20,
             amount: 10,
             shuffle: true
         }, {
             name: "Uncommon Magic Items",
             filter: (item) => this.uncommonFilter(item),
-            sort: (item0, item1) => this.typeSort(item0, item1),
+            sort: (item0, item1) => this.priceSort(item0, item1),
             volatility: 20,
             amount: 7,
             shuffle: true
         }, {
             name: "Rare Magic Items",
             filter: (item) => this.rareFilter(item),
-            sort: (item0, item1) => this.typeSort(item0, item1),
+            sort: (item0, item1) => this.priceSort(item0, item1),
             volatility: 30,
             amount: 5,
             shuffle: true
         }, {
             name: "Very Rare Magic Items",
             filter: (item) => this.veryRareFilter(item),
-            sort: (item0, item1) => this.typeSort(item0, item1),
+            sort: (item0, item1) => this.priceSort(item0, item1),
             volatility: 20,
             amount: 3,
             shuffle: true
@@ -493,7 +480,8 @@ class CrazyMerchant extends Merchant {
             sort: (item0, item1) => this.raritySort(item0, item1),
             volatility:90,
             shuffle: true,
-            amount: 3
+            amount: 3,
+            special: true
         }];
     }
 }

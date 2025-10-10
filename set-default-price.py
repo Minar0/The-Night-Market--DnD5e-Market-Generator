@@ -10,6 +10,7 @@ rarity_to_value = {
     "very rare": '50000 gp',
     "legendary": '500000 gp',
     "artifact":  '1000000 gp',
+    "unknown":   '500000 gp',
 }
 
 folder_path = "./item_tables"
